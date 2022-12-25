@@ -22,12 +22,34 @@ namespace ETICARET.DataAccess.Concrete.EfCore
 
         public void DeleteFromCart(int cartId, int productId)
         {
-            throw new NotImplementedException();
+            using (var context = new DataContext())
+            {
+                var cmd = @"delete from CartItem where CartId=@p0 and ProductId=@p1";
+                context.Database.ExecuteSqlRaw(cmd,cartId,productId);
+            }
         }
 
         public Cart GetCartByUserId(string userId)
         {
-            throw new NotImplementedException();
+            using (var context = new DataContext())
+            {
+                return context.Carts
+                    .Include(i => i.CartItems)
+                    .ThenInclude(i => i.Product)
+                    .ThenInclude(i => i.Images)
+                    .FirstOrDefault(i => i.UserId == userId);
+            }
         }
+
+        public override void Update(Cart entity) // EfCoreGenericRepository deki Update methodunu ezdim.
+        {
+            using (var context = new DataContext())
+            {
+                context.Carts.Update(entity);
+                context.SaveChanges();
+            }
+        }
+
+       
     }
 }
