@@ -38,7 +38,7 @@ namespace ETICARET.Entities
     {
         waiting=0,
         Unpaid=1,
-        complated=2
+        completed=2
     }
 
     public enum EnumPaymentTypes

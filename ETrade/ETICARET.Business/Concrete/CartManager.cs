@@ -43,24 +43,29 @@ namespace ETICARET.Business.Concrete
             }
         }
 
-        public void ClearCart(int cartId)
+        public void ClearCart(string cartId)
         {
-            throw new NotImplementedException();
+            _cartDal.ClearCart(cartId);
         }
 
-        public void DeleteFromCart(int userId, int productId)
+        public void DeleteFromCart(string userId, int productId)
         {
-            throw new NotImplementedException();
+            var cart = GetCartByUserId(userId);
+
+            if (cart != null)
+            {
+                _cartDal.DeleteFromCart(cart.Id,productId);
+            }
         }
 
         public Cart GetCartByUserId(string userId)
         {
-            throw new NotImplementedException();
+            return _cartDal.GetCartByUserId(userId);
         }
 
         public void InitializeCart(string userId)
         {
-            throw new NotImplementedException();
+            _cartDal.Create(new Cart() { UserId = userId});
         }
     }
 }

@@ -9,7 +9,7 @@ namespace ETICARET.Business.Abstract
 {
     public interface IOrderService
     {
-        List<Order> GetOrders(int userId);
+        List<Order> GetOrders(string userId);
         void Create(Order entity);
     }
 }
