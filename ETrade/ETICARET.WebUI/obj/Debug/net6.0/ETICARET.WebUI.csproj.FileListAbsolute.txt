@@ -33,7 +33,6 @@ D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Micros
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
