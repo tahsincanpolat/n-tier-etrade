@@ -7,6 +7,8 @@ using ETICARET.WebUI.Identity;
 using ETICARET.WebUI.Middlewares;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

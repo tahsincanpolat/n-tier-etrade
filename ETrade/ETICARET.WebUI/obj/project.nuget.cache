@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FhrIYd1GRDnc90O47IPRWZMVF6Tz3YYzwxsR89T8onDIV+HzMbzmuC8aAQaflcQeul7nDa/6k1Lk0YZBqgL3Ew==",
+  "dgSpecHash": "FAFetd589stXnPl2DSI5jLRMMxssRyFSZ3jw3g+G1PytTtteJf0jA5MLyp+lCd1pLKeGTtEfnlmnttWzhPJMUw==",
   "success": true,
   "projectFilePath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.WebUI\\ETICARET.WebUI.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

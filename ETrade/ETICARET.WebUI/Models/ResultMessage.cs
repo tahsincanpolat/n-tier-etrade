@@ -1,6 +1,6 @@
 ﻿namespace ETICARET.WebUI.Models
 {
-    public class ResulMessage
+    public class ResultMessage
     {
         public string Title { get; set; }
         public string Message { get; set; }
