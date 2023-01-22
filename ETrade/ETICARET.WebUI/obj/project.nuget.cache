@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FAFetd589stXnPl2DSI5jLRMMxssRyFSZ3jw3g+G1PytTtteJf0jA5MLyp+lCd1pLKeGTtEfnlmnttWzhPJMUw==",
+  "dgSpecHash": "jnIK7U6Zh1v3XPLbk3HhqWwDe5JNQgzKlrH/q1O2Tc7HPs8rI038OfanVYGTzRODJK292b0gEfNoMu8DY/pp/g==",
   "success": true,
   "projectFilePath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.WebUI\\ETICARET.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\iyzipay\\2.1.55\\iyzipay.2.1.55.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.9\\microsoft.aspnetcore.cryptography.internal.6.0.9.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.9\\microsoft.aspnetcore.cryptography.keyderivation.6.0.9.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.9\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.9.nupkg.sha512",

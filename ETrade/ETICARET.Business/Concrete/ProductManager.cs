@@ -53,9 +53,9 @@ namespace ETICARET.Business.Concrete
             return _productDal.GetProductsByCategory(category,page,pageSize);
         }
 
-        public void Update(Product entity)
+        public void Update(Product entity, int[] categoryIds)
         {
-            _productDal.Update(entity);
+            _productDal.Update(entity,categoryIds);
         }
     }
 }
