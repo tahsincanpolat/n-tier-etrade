@@ -23,8 +23,4 @@
     <ProjectReference Include="..\ETICARET.Entities\ETICARET.Entities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="node-modules\" />
-  </ItemGroup>
-
 </Project>

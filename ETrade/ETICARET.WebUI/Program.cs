@@ -91,8 +91,6 @@ app.UseAuthentication();
 app.UseAuthorization();
 app.UseRouting();
 
-app.UseHttpsRedirection();
-
 app.UseEndpoints(endpoints =>
 {
 
@@ -138,8 +136,6 @@ app.UseEndpoints(endpoints =>
         pattern: "orders",
         defaults: new { controller = "Cart", action = "GetOrders" }
  );
-
-
 
 
 });

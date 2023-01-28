@@ -70,3 +70,6 @@ D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\ETICAR
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\obj\Debug\net6.0\ETICARET.WebUI.csproj.CopyComplete
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Humanizer.dll
 D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\package.json
+D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Iyzipay.dll
+D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
