@@ -1,0 +1,7 @@
+C:\Users\thsn_\source\repos\n-tier-etrade\ETrade\ETICARET.WEBAPI\obj\Debug\net6.0\ETICARET.WEBAPI.csproj.AssemblyReference.cache
+C:\Users\thsn_\source\repos\n-tier-etrade\ETrade\ETICARET.WEBAPI\obj\Debug\net6.0\ETICARET.WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thsn_\source\repos\n-tier-etrade\ETrade\ETICARET.WEBAPI\obj\Debug\net6.0\ETICARET.WEBAPI.AssemblyInfoInputs.cache
+C:\Users\thsn_\source\repos\n-tier-etrade\ETrade\ETICARET.WEBAPI\obj\Debug\net6.0\ETICARET.WEBAPI.AssemblyInfo.cs
+C:\Users\thsn_\source\repos\n-tier-etrade\ETrade\ETICARET.WEBAPI\obj\Debug\net6.0\ETICARET.WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\thsn_\source\repos\n-tier-etrade\ETrade\ETICARET.WEBAPI\obj\Debug\net6.0\ETICARET.WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thsn_\source\repos\n-tier-etrade\ETrade\ETICARET.WEBAPI\obj\Debug\net6.0\ETICARET.WEBAPI.MvcApplicationPartsAssemblyInfo.cache

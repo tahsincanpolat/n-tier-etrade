@@ -5,12 +5,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ETICARET.WebUI.Controllers
 {
-    public class ShopController1 : Controller
+    public class ShopController : Controller
     {
 
         private IProductService _productService;
 
-        public ShopController1(IProductService productService)
+        public ShopController(IProductService productService)
         {
             _productService = productService;
         }
