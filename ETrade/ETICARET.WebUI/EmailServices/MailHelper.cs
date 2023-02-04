@@ -17,7 +17,7 @@ namespace ETICARET.WebUI.EmailServices
             try
             {
                 var message = new MailMessage();
-                message.From = new MailAddress("test_tahsin_canpolat@hotmail.com");
+                message.From = new MailAddress("test_ucuncubinyilakademi@hotmail.com");
 
                 to.ForEach(x =>
                 {
@@ -31,7 +31,7 @@ namespace ETICARET.WebUI.EmailServices
                 using (var smtp = new SmtpClient("smtp-mail.outlook.com", 587))
                 {
                     smtp.EnableSsl = true;
-                    smtp.Credentials = new NetworkCredential("test_tahsin_canpolat@hotmail.com", "Uby123456");
+                    smtp.Credentials = new NetworkCredential("test_ucuncubinyilakademi@hotmail.com", "Uby123456");
                     smtp.Send(message);
                     result = true;
                 }

@@ -88,8 +88,9 @@ SeedDatabase.Seed();
 app.UseStaticFiles();
 app.CustomStaticFiles(); // middleware : Bootstrap klasörünü npm aracýlýðýyla statik dosya olarak projeye dahil edeceðiz 
 app.UseAuthentication();
-app.UseAuthorization();
 app.UseRouting();
+app.UseAuthorization();
+
 
 app.UseEndpoints(endpoints =>
 {

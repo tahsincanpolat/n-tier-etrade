@@ -790,11 +790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.JWT\\ETICARET.JWT.csproj",
+      "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.JWT\\ETICARET.JWT.csproj",
       "projectName": "ETICARET.JWT",
-      "projectPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.JWT\\ETICARET.JWT.csproj",
+      "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.JWT\\ETICARET.JWT.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.JWT\\obj\\",
+      "outputPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.JWT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

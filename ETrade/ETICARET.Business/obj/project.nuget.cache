@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gYo4nzXdFIrmA1IybTUbuo9NrHnbv88h5cYHqzj95StxEzRcNK7sH8VfsKEQrVEM+NvkO0tMb3Xc0xEvViJlAQ==",
+  "dgSpecHash": "P9SpkWX1JYQRwJ4+hAZ7cL0+z3XhMrR2245lkILXciY7+7+AD6WERy4XlFP+wqE8vXyOLacTcHscI6SerEys3Q==",
   "success": true,
-  "projectFilePath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj",
+  "projectFilePath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

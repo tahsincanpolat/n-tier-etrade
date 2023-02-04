@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oOFsPMiBJFHlxmgGvnGJYwkM15F2m6yZxnbfm6hIu0q31n9fO7bIB8FfkZHxPpxKVI8ylQSLRsN5zd8IA8bhgw==",
+  "dgSpecHash": "6qRggaBcgqvh3ez7G+Rsv/vYMxgtwD9d3dWv3xmF0JEQJMhN85XO42fr1lWVzdOnRtHI1VXTlsloADYaDB6oww==",
   "success": true,
-  "projectFilePath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.JWT\\ETICARET.JWT.csproj",
+  "projectFilePath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.JWT\\ETICARET.JWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.11\\microsoft.aspnetcore.authentication.jwtbearer.6.0.11.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

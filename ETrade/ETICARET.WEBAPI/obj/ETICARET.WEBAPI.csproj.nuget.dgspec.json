@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thsn_\\source\\repos\\n-tier-etrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj": {}
+    "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thsn_\\source\\repos\\n-tier-etrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj": {
+    "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thsn_\\source\\repos\\n-tier-etrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj",
+        "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj",
         "projectName": "ETICARET.WEBAPI",
-        "projectPath": "C:\\Users\\thsn_\\source\\repos\\n-tier-etrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj",
-        "packagesPath": "C:\\Users\\thsn_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thsn_\\source\\repos\\n-tier-etrade\\ETrade\\ETICARET.WEBAPI\\obj\\",
+        "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WEBAPI\\ETICARET.WEBAPI.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WEBAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thsn_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -81,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

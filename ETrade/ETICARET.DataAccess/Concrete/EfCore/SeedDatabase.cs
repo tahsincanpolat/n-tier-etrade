@@ -36,6 +36,7 @@ namespace ETICARET.DataAccess.Concrete.EfCore
             new Category(){ Name = "Telefon"},
             new Category(){ Name = "Bilgisayar"},
             new Category(){ Name = "Elektronik"},
+             new Category(){ Name = "Ev Gereçleri"}
         };
 
         private static Product[] Products =
@@ -47,6 +48,7 @@ namespace ETICARET.DataAccess.Concrete.EfCore
            new Product(){ Name = "Samsung Note 10" , Price = 18000 , Images= { new Image(){ ImageUrl ="1.jpg" },new Image(){ ImageUrl ="2.jpg" },new Image(){ ImageUrl ="3.jpg" },new Image(){ ImageUrl ="1.jpg" } },Description ="<p>güzel telefon</p>" },
            new Product(){ Name = "Samsung Note 11" , Price = 19000 , Images= { new Image(){ ImageUrl ="1.jpg" },new Image(){ ImageUrl ="2.jpg" },new Image(){ ImageUrl ="3.jpg" },new Image(){ ImageUrl ="1.jpg" } },Description ="<p>güzel telefon</p>" },
            new Product(){ Name = "Samsung Note 12" , Price = 20000 , Images= { new Image(){ ImageUrl ="1.jpg" },new Image(){ ImageUrl ="2.jpg" },new Image(){ ImageUrl ="3.jpg" },new Image(){ ImageUrl ="1.jpg" } },Description ="<p>güzel telefon</p>" },
+
 
         };
 
@@ -61,6 +63,8 @@ namespace ETICARET.DataAccess.Concrete.EfCore
             new ProductCategory(){Product = Products[5],Category = Categories[1]},
             new ProductCategory(){Product = Products[6],Category = Categories[0]},
             new ProductCategory(){Product = Products[6],Category = Categories[2]},
+            new ProductCategory(){Product = Products[6],Category = Categories[3]},
+
 
         };
 

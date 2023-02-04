@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj": {}
+    "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj": {}
   },
   "projects": {
-    "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj": {
+    "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj",
+        "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj",
         "projectName": "ETICARET.Business",
-        "projectPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj",
+        "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Business\\ETICARET.Business.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Business\\obj\\",
+        "outputPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj": {
-                "projectPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj"
+              "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj": {
+                "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj"
               },
-              "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj": {
-                "projectPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj"
+              "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj": {
+                "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj": {
+    "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj",
+        "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj",
         "projectName": "ETICARET.DataAccess",
-        "projectPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj",
+        "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.DataAccess\\obj\\",
+        "outputPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -101,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj": {
-                "projectPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj"
+              "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj": {
+                "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj": {
+    "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj",
+        "projectUniqueName": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj",
         "projectName": "ETICARET.Entities",
-        "projectPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj",
+        "projectPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\ETICARET.Entities.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.Entities\\obj\\",
+        "outputPath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

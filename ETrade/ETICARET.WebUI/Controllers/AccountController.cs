@@ -37,7 +37,7 @@ namespace ETICARET.WebUI.Controllers
 
             var user = new ApplicationUser
             {
-                UserName = model.Username,
+                UserName = model.UserName,
                 Email = model.Email,
                 FullName = model.FullName
             };

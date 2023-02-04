@@ -6,7 +6,7 @@ namespace ETICARET.WebUI.Middlewares
     {
         public static IApplicationBuilder CustomStaticFiles(this IApplicationBuilder app)
         {
-            var path = Path.Combine(Directory.GetCurrentDirectory(), "node-modules");
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "node_modules");
 
 
             var options = new StaticFileOptions

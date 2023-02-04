@@ -7,7 +7,7 @@ namespace ETICARET.WebUI.Models
         [Required]
         public string FullName { get; set; }
         [Required]
-        public string Username { get; set; }
+        public string UserName { get; set; }
         [Required]
         [DataType(DataType.Password)]
         public string Password { get; set; }

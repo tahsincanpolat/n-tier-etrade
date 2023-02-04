@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kFymD4qxjiIJbWxpZQhOZr657l39vVVHDWN+yedtCs2CNzGRFNaBLKCS01ngUaz3FGUmxUBmGQTu2sz99LXJYw==",
+  "dgSpecHash": "GaCSt3geGKM3W0T/QMfJrOQeo/Y6Y1TvDNFOy535UsMR9aALZ4CfI6IF4CHALW0YjaUfqcK0cZXV8p3AZgc3/Q==",
   "success": true,
-  "projectFilePath": "D:\\TahsinCanpolat\\Web2\\nTierETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj",
+  "projectFilePath": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.DataAccess\\ETICARET.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

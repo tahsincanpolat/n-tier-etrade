@@ -8,37 +8,129 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ETICARET.WebUI
 build_property.RootNamespace = ETICARET.WebUI
-build_property.ProjectDir = D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI\
+build_property.ProjectDir = D:\TahsinCanpolat\Web2\ETrade\ETrade\ETICARET.WebUI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\TahsinCanpolat\Web2\nTierETrade\ETrade\ETICARET.WebUI
+build_property.MSBuildProjectDirectory = D:\TahsinCanpolat\Web2\ETrade\ETrade\ETICARET.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/TahsinCanpolat/Web2/nTierETrade/ETrade/ETICARET.WebUI/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TahsinCanpolat/Web2/nTierETrade/ETrade/ETICARET.WebUI/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TahsinCanpolat/Web2/nTierETrade/ETrade/ETICARET.WebUI/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TahsinCanpolat/Web2/nTierETrade/ETrade/ETICARET.WebUI/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TahsinCanpolat/Web2/nTierETrade/ETrade/ETICARET.WebUI/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TahsinCanpolat/Web2/nTierETrade/ETrade/ETICARET.WebUI/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TahsinCanpolat/Web2/nTierETrade/ETrade/ETICARET.WebUI/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-alzs6dqq0e
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/UserEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Admin/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Cart/GetOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxHZXRPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Cart/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/Components/CategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/_imageUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9pbWFnZVVwbG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/_PartialComments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQ29tbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/_products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/_resultmessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9yZXN1bHRtZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shared/_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shop/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/Shop/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TahsinCanpolat/Web2/ETrade/ETrade/ETICARET.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
