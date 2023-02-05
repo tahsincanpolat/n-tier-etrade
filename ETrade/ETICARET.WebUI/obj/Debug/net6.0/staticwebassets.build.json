@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qLZCvMmvzzu2l+J0OcPZZhjaePM0vRaa5CxiZTWW7CA=",
+  "Hash": "J9WDw77QfadX8kxRpjg3wPSed2LJeYukpzCWvDYtPVE=",
   "Source": "ETICARET.WebUI",
   "BasePath": "_content/ETICARET.WebUI",
   "Mode": "Default",
@@ -287,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\slider3.png"
+    },
+    {
+      "Identity": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WebUI\\wwwroot\\js\\comment.js",
+      "SourceId": "ETICARET.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WebUI\\wwwroot\\",
+      "BasePath": "_content/ETICARET.WebUI",
+      "RelativePath": "js/comment.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\comment.js"
     },
     {
       "Identity": "D:\\TahsinCanpolat\\Web2\\ETrade\\ETrade\\ETICARET.WebUI\\wwwroot\\js\\site.js",

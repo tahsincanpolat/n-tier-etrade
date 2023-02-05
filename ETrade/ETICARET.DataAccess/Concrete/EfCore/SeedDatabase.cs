@@ -36,7 +36,7 @@ namespace ETICARET.DataAccess.Concrete.EfCore
             new Category(){ Name = "Telefon"},
             new Category(){ Name = "Bilgisayar"},
             new Category(){ Name = "Elektronik"},
-             new Category(){ Name = "Ev Gereçleri"}
+            new Category(){ Name = "Ev Gereçleri"}
         };
 
         private static Product[] Products =

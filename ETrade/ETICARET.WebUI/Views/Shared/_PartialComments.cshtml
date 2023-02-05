@@ -38,8 +38,8 @@
     @foreach (var item in Model)
     {
         <div class="d-flex">
-            <div class="flex-grow-1 ms-12">
-                <h6 class="col-md-12">John Carter <small class="text-muted"><i>@item.CreateOn.ToString("dddd, dd MMMM yyyy")</i></small></h6>
+            <div class="flex-grow-1 ms-12 mt-3">
+                <h6 class="col-md-12">Anonymous <small class="text-muted"><i>@item.CreateOn.ToString("dddd, dd MMMM yyyy")</i></small></h6>
                 <span class="col-md-10" id="comment_text_@item.Id" contenteditable="false">
                     @item.Text
                 </span>
@@ -55,6 +55,7 @@
                         </button>
                     </span>
                 }
+                <hr>
             </div>
         </div>
 

@@ -12,12 +12,7 @@
                 </li>
                 @if (User.Identity.IsAuthenticated)
                 {
-                    <li class="nav-item">
-                        <a asp-controller="Cart" asp-action="Index" class="nav-link">Cart</a>
-                    </li>
-                    <li class="nav-item">
-                        <a asp-controller="Cart" asp-action="GetOrders" class="nav-link">Orders</a>
-                    </li>
+                    
                     @if (User.IsInRole("admin"))
                     {
                         <li class="nav-item">
@@ -31,6 +26,15 @@
                         </li>
                         <li class="nav-item">
                             <a asp-controller="Admin" asp-action="CategoryList" class="nav-link">Admin Categories</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a asp-controller="Cart" asp-action="Index" class="nav-link">Cart</a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Cart" asp-action="GetOrders" class="nav-link">Orders</a>
                         </li>
                     }
 

@@ -14,7 +14,7 @@
             @foreach (var item in Model.Product.Images)
             {
                 <div class="col-md-3">
-                    <img src="~/img/@item.ImageUrl" alt="@Model.Product.Name" class="img-fluid" onclick="myFunction(this)" />
+                    <img src="~/img/@item.ImageUrl" alt="@Model.Product.Name" class="img-fluid" onclick="imageBox(this)" />
                 </div>
             }
 
@@ -60,7 +60,7 @@
     </ul>
     <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active" id="comment" role="tabpanel" aria-labelledby="home-tab" data-product-id="@Model.Product.Id" data-url="@Url.Action(action:"ShowProductComments", controller:"Comment", new{id=Model.Product.Id})">
-            @* <partial name="_PartialComments" for="@Model.Comments" />*@
+            <partial name="_PartialComments" for="@Model.Comments" />
             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">@Html.Raw(Model.Product.Description)</div>
 
         </div>

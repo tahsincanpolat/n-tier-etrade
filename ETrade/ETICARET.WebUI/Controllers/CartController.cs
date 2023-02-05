@@ -128,8 +128,8 @@ namespace ETICARET.WebUI.Controllers
         private Payment PaymentProcess(OrderModel model)
         {
             Options options = new Options();
-            options.ApiKey = "";
-            options.SecretKey = "";
+            options.ApiKey = "sandbox-afXhZPW0MQlE4dCUUlHcEopnMBgXnAZI";
+            options.SecretKey = "sandbox-wbwpzKIiplZxI3hh5ALI4FJyAcZKL6kq";
             options.BaseUrl = "https://sandbox-api.iyzipay.com";
 
             CreatePaymentRequest request = new CreatePaymentRequest();
